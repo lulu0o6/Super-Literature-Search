@@ -1,2 +1,2 @@
 # Super-Literature-Search 
-created by deepseek for colab
+A powerful literature-search tool that supports customizable keyword logic and multi-platform retrieval (e.g., PubMed, CrossRef, Semantic Scholar). Outputs an interactive HTML interface with a left-side navigation pane, and automatically shows each paper’s citation count, publication year, and journal impact factor. The interface includes one-click links to the original paper pages and convenient controls for filtering, sorting, and exporting results.
